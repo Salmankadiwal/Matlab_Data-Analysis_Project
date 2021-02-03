@@ -28,6 +28,7 @@ Predicted attribute: Three Class of iris plant.
 3.	Petal length in cm
 4.	Petal width in cm
 
+
 5.      Output Classes:
  
 - Iris Setosa                Class-1
@@ -51,7 +52,8 @@ For data analysis, only top 10 data rows from each class is used.
 
 -A correlation matrix is also computed, and histogram is used to understand frequency of each classes.
 
-
+### Note:
+     To run this code, save the file to your computer and just give the right path in the code.
 
 																	
 																	
